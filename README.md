@@ -31,6 +31,16 @@ The analysis queries show:
 SQL  
 SQLite
 
+## Example Query Result
+
+Customer total spending:
+
+| Customer | Total Spent |
+|---------|-------------|
+| Burcu   | 350 |
+| Ali     | 300 |
+| John    | 100 |
+
+
 ## Author
-Burcu Koc# sql-ecommerce-analysis
-SQL E-commerce Data Analysis Project using JOIN, GROUP BY, and aggregation queries.
+Burcu Koc# s
