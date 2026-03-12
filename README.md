@@ -41,6 +41,22 @@ Customer total spending:
 | Ali     | 300 |
 | John    | 100 |
 
+## Tools Used
+- SQL
+- Python (Pandas, Matplotlib)
+- Excel
+
+## Dataset
+Supermarket sales dataset containing transaction data from three cities.
+
+## Analysis Performed
+- Total sales by product category
+- Total sales by city
+- Customer type analysis
+- Product line revenue comparison
+
+## Visualization
+Python was used to visualize total sales by product line.
 
 ## Author
 Burcu Koc# s
